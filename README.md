@@ -39,7 +39,7 @@ Fitness: Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 i
 
 Miles: The average number of miles the customer expects to walk/run each week
 
-#Approach:
+**Approach:**
 
 Importing the dataset and doing usual data analysis steps like checking the structure & characteristics of the dataset.
 
