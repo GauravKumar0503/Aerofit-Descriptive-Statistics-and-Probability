@@ -7,7 +7,8 @@ across the product with respect to customer characteristics.
 by developing appropriate tables and charts.
 2. For each AeroFit treadmill product, construct two-way contingency tables and compute all
 conditional and marginal probabilities along with their insights/impact on the business.
-Approach:
+
+#Approach:
 Importing the dataset and doing usual data analysis steps like checking the structure & characteristics of the dataset.
 Detecting Outliers (using boxplot, “describe” method by checking the difference between mean and median).
 Checking if features like marital status, age have any effect on the product purchased (using countplot, histplots, boxplots etc).
